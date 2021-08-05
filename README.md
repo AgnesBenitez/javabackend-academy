@@ -10,7 +10,7 @@ En este repositorio almaceno los ejercicios realizados a lo largo de las clases 
 - 1.4) Variables, Rangos, Tipos Primitivos y Referencia, valores por defecto
 - 1.5) Arrays, Tipos Enumerados
 
-El codigo de este programa es el uso de los tipos de datos nativos de java  tambien de manera didactica cuales son los modificadores de acceso  como private,public,protected tambien se vio la estructura de un array y la sintaxis de algunas de sus propiedades.
+El codigo de este programa es el uso de los tipos de datos nativos de java  tambien de manera didactica cuales son los modificadores de acceso  como private,public,protected tambien se vio la estructura de un array y la sintaxis de algunas de sus propiedades asi como el uso de enums.
 
 ## Orientado a objetos ⚽️
 - 2.1) Encapsulación, Herencia, Sobrescritura
@@ -47,6 +47,9 @@ En este tema realice ejercicios en los que tenia que ver cual era el resultado d
 
 En este tema realice el ejercicio para imprimir las tablas de multiplicacion utilizando 2 for anidados ,esto para imprimir las tablas en forma de matriz en realice las tablas del 1 al 10 otro ejercicio es utilizando el ciclo while para imprimir diferentes concatenaciones de variables y obtener salidas esperadas de acuerdo a las iteraciones.
 
+## Strings 🧬
+- 6.1) Formateo, Parsing,
+- 6.2) Clases String, StringBuffer y StringBuilder
 
 
 
