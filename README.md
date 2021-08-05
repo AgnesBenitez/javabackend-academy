@@ -3,7 +3,7 @@ En este repositorio almaceno los ejercicios realizados a lo largo de las clases 
 
 ![j ](https://i.blogs.es/6091fa/java/450_1000.jpg "j")
 
-## Declaraciones y Control de Acceso
+## Declaraciones y Control de Acceso 🔑
 - 1.1) Identificadores, Palabras clave, Convenciones
 - 1.2) Modificadores de acceso, Otros Modificadores
 - 1.3) Interfaces, Constructores
@@ -11,3 +11,15 @@ En este repositorio almaceno los ejercicios realizados a lo largo de las clases 
 - 1.5) Arrays, Tipos Enumerados
 
 El codigo de este programa es el uso de los tipos de datos nativos de java  tambien de manera didactica cuales son los modificadores de acceso  como private,public,protected tambien se vio la estructura de un array y la sintaxis de algunas de sus propiedades.
+
+## Orientado a objetos ⚽️
+- 2.1) Encapsulación, Herencia, Sobrescritura
+- 2.2) Sobrecarga Métodos, Polimorfismo
+- 2.3) Constructores
+- 2.4) InstanceOf, Conversiones de Tipos
+- 2.5) Implementando Interfaces, Tipos de Retorno
+- 2.6) Miembros Estáticos, uso de la palabra reservada Estático
+- 2.7) Acoplamiento y Cohesión
+- 2.8) Clases Internas Y Anónimas
+
+En estos programas utilice la programacion orientada a objetos en donde aplique conceptos de poo como herencia ,conceptos de constructores,metodos ,hice un programa aplicando las clases internas dentro del mismo file ,clases en un metodo y aprendi a diferenciar la cohesion y el acoplamiento dentro de java.
