@@ -32,6 +32,8 @@ En estos programas utilice la programacion orientada a objetos en donde aplique 
 - 3.5) Sobrecarga de Métodos con Widening, Boxing y Argumentos Variables
 - 3.6) Comparación de tipos nativos, comparación de clases envoltorio
 
+En este tema utilice ejemplos con asignaciones de tipo y casting de diferntes tipos de datos ,asi como un programa para definir un arreglo con diferentes tipos de enteros para diseñar uno en concreto,tambien utilice un programa para usar sobrecargas de metodos ,argumentos variables y metodos primitivos de datos.
+
 ## Operadores en Java 🧮
 - 4.1) de asignación, compuestos, relacionales, de igualdad e instancia de.
 - 4.2) resta, concatenador, de incremento o decremento
