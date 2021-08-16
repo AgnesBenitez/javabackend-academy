@@ -1,6 +1,8 @@
 ## Colecciones 🐙
 -7.1) Conjunto de interfaces y clases implementadoras
+
 -7.2) Lista de interfaces y clases implementadoras
+
 -7.3) Mapa y clases implementadoras
 
 El tema de colecciones desde mi punto de vista es de los temas mas complejos tratados en esta capacitacion de java ya que las aplicaciones que se le pueden atribuir a las colecciones
