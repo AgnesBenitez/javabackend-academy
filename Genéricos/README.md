@@ -1,4 +1,4 @@
-## Orientado a objetos ✨ 
+## Genericos ✨ 
 -8.1) Uso de Genéricos
 
 El tema de genericos en java para mi fue algo nuevo ya que no los habia usado pero entendi que los tipos parametrizados son importantes  y tienen bastante versatilidad 
