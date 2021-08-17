@@ -11,6 +11,13 @@ class MapEQ {
  m.put(t2, "payBills");
  m.put(t3, "cleanAttic");
  System.out.println(m.size());
+  
+ System.out.println(m.get(t1));
+ System.out.println(m.get(t2));
+ System.out.println(m.get(t3));
+ 
+ System.out.println(m);
+
 } }
 class ToDos{
  String day;
