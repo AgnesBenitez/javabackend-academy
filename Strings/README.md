@@ -8,13 +8,22 @@ nombre y despues con un ciclo for se recorre la cadena hasta encontrar un espaci
 del ciclo se imprima la cadena de iniciales.
 
 Otra cosa interesante es que me aprendi cuales son los metodos propios de la clase String y los mas importantes :
+
 *charAt(int i): argumento comienza en cero.
+
 *concat(String s): añade la cadena que se pasa como parámetro.
+
 *replace(char a, char b): reemplaza el carácter a con el carácter b.
+
 *substring(int ini, int end): devuelve la subcadena que comienza en ini (empezar en 0) y acaba en end (se cuenta desde 1).
+
 *trim(): devuelve la cadena sin espacios.
+
 *length(): devuelve la longitud de la cadena.
+
 *toLowerCase(): devuelve la cadena en minúsculas.
+
 *toUpperCase(): devuelve la cadena en mayúsculas.
+
 *equalsIgnoreCase(String s): devuelve si es igual sin importar mayúscula o minúscula a la cadena que se pasa como parámetro.
 
